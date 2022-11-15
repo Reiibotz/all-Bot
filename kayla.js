@@ -112,7 +112,7 @@ try {
         const hijam = Math.floor( ceDadah % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
         const himenit = Math.floor( ceDadah % (1000 * 60 * 60) / (1000 * 60))
         const hidetik = Math.floor( ceDadah % (1000 * 60) / 1000)
-        const UltahCreator = new Date('Januari 19, 2023 00:00:00')
+        const UltahCreator = new Date('April 14, 2023 00:00:00')
         const CreatorKayla = new Date().getTime()
         const KaylaBotWA = UltahCreator - CreatorKayla
         const kayhari = Math.floor( KaylaBotWA / (1000 * 60 * 60 * 24));
@@ -264,7 +264,7 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `Kayla Bot WhatsApp`, 
+"caption": `ALL Bot WhatsApp`, 
 "jpegThumbnail": ppnyauser
 }
 }
@@ -563,7 +563,7 @@ Tuhan Yesus Kristus
 ALL 𝗕𝗼𝘁
 𝗨𝘀𝗲𝗿 𝗕𝗼𝘁`,
 mentions : [sender, botzkayla, mark],
-footer: `Created By @${botzkayla.split("@")[0]}
+footer: `Created By @${botzALL.split("@")[0]}
 WhatsApp By @${mark.split("@")[0]}`,
 buttons: butlocNye,
 headerType: "LOCATION"
@@ -893,7 +893,7 @@ let buttons = [
 ]
 await kayla.sendButtonText(m.chat, buttons, `Auto Download Tiktok
 
-Title : ${atdl.title}`, `Auto Downloader By Kayla`, ftext)
+Title : ${atdl.title}`, `Auto Downloader By ALL`, ftext)
 }
 }
 
@@ -1029,8 +1029,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/EUr0RyJvHyWFkZnjI1wGRI',
+"sourceUrl": 'https://chat.whatsapp.com/EUr0RyJvHyWFkZnjI1wGRI'
 }
 }
 })

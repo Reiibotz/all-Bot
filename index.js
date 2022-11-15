@@ -132,7 +132,7 @@ participant: `0@s.whatsapp.net`,
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "SALAM DARI KAYLA BOT"
+"optionName": "SALAM DARI ALL BOT"
 	}
 ],
 "selectableOptionsCount": 5
@@ -161,7 +161,7 @@ participant: `0@s.whatsapp.net`,
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "SALAM DARI KAYLA BOT"
+"optionName": "SALAM DARI ALL BOT"
 	}
 ],
 "selectableOptionsCount": 5
