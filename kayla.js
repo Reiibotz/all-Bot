@@ -113,8 +113,8 @@ try {
         const himenit = Math.floor( ceDadah % (1000 * 60 * 60) / (1000 * 60))
         const hidetik = Math.floor( ceDadah % (1000 * 60) / 1000)
         const UltahCreator = new Date('April 14, 2023 00:00:00')
-        const CreatorKayla = new Date().getTime()
-        const KaylaBotWA = UltahCreator - CreatorKayla
+        const CreatorReii = new Date().getTime()
+        const KaylaBotWA = UltahCreator - CreatorReii
         const kayhari = Math.floor( KaylaBotWA / (1000 * 60 * 60 * 24));
         const kayjam = Math.floor( KaylaBotWA % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
         const kaymenit = Math.floor( KaylaBotWA % (1000 * 60 * 60) / (1000 * 60))
