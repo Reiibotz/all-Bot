@@ -563,7 +563,7 @@ Tuhan Yesus Kristus
 ALL 𝗕𝗼𝘁
 𝗨𝘀𝗲𝗿 𝗕𝗼𝘁`,
 mentions : [sender, botzkayla, mark],
-footer: `Created By @${botzALL.split("@")[0]}
+footer: `Created By @${botzkayla.split("@")[0]}
 WhatsApp By @${mark.split("@")[0]}`,
 buttons: butlocNye,
 headerType: "LOCATION"
