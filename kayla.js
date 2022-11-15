@@ -405,7 +405,7 @@ const repPy = {
 			requestFrom: '0@s.whatsapp.net',
 			noteMessage: {
 				extendedTextMessage: {
-					text: 'Creator Kayla'
+					text: 'Creator Not_Reii'
 				}
 			},
 			expiryTimestamp: 999999999,
